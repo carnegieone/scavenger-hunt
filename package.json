@@ -1,6 +1,6 @@
 {
-  "name": "carnegie-1-opening-scavenger-hunt",
-  "homepage": "https://spencerkingman.github.io/carnegie-1-opening-scavenger-hunt/",
+  "name": "scavenger-hunt",
+  "homepage": "https://carnegieone.github.io/scavenger-hunt/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
