@@ -34,6 +34,14 @@
   font-size: 0.75rem;
 }
 
+.clue__link {
+  color: white;
+  text-decoration: underline;
+  &:hover {
+    color: white;
+  }
+}
+
 #gave-away {
   background-color: #f44336;
   color: rgba(255, 255, 255, 0.87);
